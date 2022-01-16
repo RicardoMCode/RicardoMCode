@@ -9,5 +9,3 @@
 - 🌱 I’m currently learning CSS3, HTML5, React.js, Node.js, Redux, UI, UX
 - 💞️ I’m looking to collaborate on projects whit React.js 
 - 📫 How to reach me, mail ricardomaldonado1204@gmail.com
-
-In this moment, I'm build my portfolio
