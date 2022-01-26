@@ -26,12 +26,12 @@
 }
 
 .main-photo-content:hover + .hidden-information-containes{
-  height: 15rem;    
-  padding: 2rem;
+  background-color: #efefef;
+  height: 18rem;    
   margin-left: 33rem;
-  visibility: visible;
-  color: #484848;
   transition: .5s;
+  opacity: 1;
+  visibility: visible;
 }
 
 

@@ -1,0 +1,11 @@
+.information-content {
+    margin: 2rem;
+}
+.information-item {
+    margin: 1rem;
+}
+.information-item h4{
+    display: block;
+    text-align: center;
+    margin-bottom: 2rem;
+}

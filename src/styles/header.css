@@ -8,25 +8,28 @@
 }
 
 .hidden-information-containes {
-  width: 60rem;
+  width: auto;
   height: 0rem;
   position: fixed;
-  background: #efefef;
   border-radius: 1rem;
   margin-left: 28rem;
   margin-top: 1rem;
+  opacity: 0;
+  color: #484848 ;
+  background-color: #efefef;
   visibility: hidden;
-  color: transparent;
+  overflow: hidden;
+  box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.79);
 }
 
 .hidden-information-containes:hover {
-  height: 15rem;  
-  padding: 2rem;
+  background-color: #efefef;
+  height: 18rem;    
   margin-left: 30rem;
   margin-top: .5rem;
-  visibility: visible;
-  color: #484848;
   transition: .5s;
+  opacity: 1;
+  visibility: visible;
 }
 
 .hidden-information-containes:not(:hover) {

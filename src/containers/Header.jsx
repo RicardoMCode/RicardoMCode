@@ -3,7 +3,7 @@ import "../styles/header.css";
 import "../styles/resources.css";
 import Stamp from "../components/Stamp";
 import Photo from "../components/photo";
-import ContactInformation from "../components/ContactInformation";
+import ContactInformation from "./ContactInformation";
 
 const Header = () => {
   return (
