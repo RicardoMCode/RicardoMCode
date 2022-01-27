@@ -12,11 +12,11 @@ const ContactInformation = () => {
       </div>
       <div className="information-item">
         <p>
-      <FontAwesomeIcon icon={faPhoneAlt}/> +57 310 280 5043</p>
+      <FontAwesomeIcon icon={faPhoneAlt}/>  +57 310 280 5043</p>
       </div>
       <div className="information-item">
         <p>
-      <FontAwesomeIcon icon={faEnvelope}/> ricardomaldonado1204@gmail.com</p>
+      <FontAwesomeIcon icon={faEnvelope}/>  ricardomaldonado1204@gmail.com</p>
       </div>
       <div className="information-item">
         <SocialMedia />

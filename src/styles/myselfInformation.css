@@ -1,0 +1,5 @@
+.myself-section-container {
+    display: flex;
+    background-color: var(--myself-color);
+    min-height: 30rem;
+}

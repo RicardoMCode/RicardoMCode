@@ -10,7 +10,7 @@ const Header = () => {
     <>
       <div className="header-content">
         <Photo></Photo>
-        <div className="hidden-information-containes">
+        <div className="hidden-information-container">
           <ContactInformation></ContactInformation>
         </div>
         <Stamp></Stamp>

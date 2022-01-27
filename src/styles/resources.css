@@ -25,8 +25,8 @@
   transition: .5s;
 }
 
-.main-photo-content:hover + .hidden-information-containes{
-  background-color: #efefef;
+.main-photo-content:hover + .hidden-information-container{
+  background-color: var(--hiden-information-color);
   height: 18rem;    
   margin-left: 33rem;
   transition: .5s;
