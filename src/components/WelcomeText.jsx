@@ -1,11 +1,10 @@
 import React from "react";
-//../styles/welcomeSection.css
 
 const WelcomeText = () => {
   const phrase = `Hay tres tipos de personas en el mundo, 
     los que hacen que las cosas pasen,
-    los que ven cómo pasan las cosas,
-    los que se preguntan cómo pasaron las cosas.`;
+    los que ven cómo pasan las cosas
+    y los que se preguntan cómo pasaron las cosas.`;
   const authorPhrase = `By. Nicholas Murray Butler`;
   const comentPhrase = `! Haz que las cosas pasen ¡`;
   return (

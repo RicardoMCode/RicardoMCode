@@ -10,7 +10,7 @@
 .hidden-information-container {
   width: auto;
   height: 0rem;
-  position: fixed;
+  position: absolute;
   border-radius: 1rem;
   margin-left: 28rem;
   margin-top: 1rem;

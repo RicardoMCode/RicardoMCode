@@ -1,5 +1,4 @@
 import React from "react";
-import "../styles/contactInformation.css";
 import SocialMedia from "../components/SocialMedia";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPhoneAlt, faEnvelope} from "@fortawesome/free-solid-svg-icons";

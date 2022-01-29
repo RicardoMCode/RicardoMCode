@@ -1,4 +1,4 @@
-.myself-section-container {
+.cards-section-container {
     display: flex;
     background-color: var(--myself-color);
     min-height: 30rem;

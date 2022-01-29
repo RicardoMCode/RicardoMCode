@@ -1,6 +1,4 @@
 import React from "react";
-import "../styles/header.css";
-import "../styles/resources.css";
 import Stamp from "../components/Stamp";
 import Photo from "../components/photo";
 import ContactInformation from "./ContactInformation";
