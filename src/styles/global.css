@@ -10,6 +10,8 @@
   --text-welcome-color: #31444e;
   --myself-color: #bababe;
   --text-myself-color: #31444e;
+  --select-color:  #227cb8;
+
 }
 html {
   font-size: 62.5%;
@@ -26,11 +28,11 @@ body {
   padding-top: .5rem;
 }
 .socialmedia-icon {
-  color: #484848;
+  color: var(--hiden-information-text-color);
 }
 
 .socialmedia-icon:hover {
-  color: #227cb8;
+  color: var(--select-color);
   border-bottom: .5rem solid;
   border-radius: 5px;
 }
