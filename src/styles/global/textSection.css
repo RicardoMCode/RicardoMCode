@@ -3,7 +3,7 @@
     display: flex;
     background-color: var(--welcome-color);
     color: var(--text-welcome-color);
-    min-height: 5rem;
+    min-height: 40rem;
     align-items: center;
     justify-content: center;
     padding: 5rem;

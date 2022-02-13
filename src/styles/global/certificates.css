@@ -1,0 +1,15 @@
+.certificate-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 3rem; 
+}
+
+.certificate-item {
+    margin: 2rem;
+}
+
+.certificate-image {
+    width: 35rem;
+    border-radius: 1rem;
+}

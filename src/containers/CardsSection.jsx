@@ -1,9 +1,13 @@
-import React from 'react';
+import React, { useContext } from "react";
+import PortfolioContext from "../context/PortfolioContext";
+import Certificates from "./Certificates";
+import Projects from "./Projects";
 
 const CardsSection = () => {
+    const {viewSelect} = useContext(PortfolioContext);
     return (
         <div className='cards-section-container'>
-            Cards sectión - vamos a renderizar aquí los proyectos realizados y en otra opción los certificados
+            {viewSelect == "aboutMe" ? <Certificates /> : <Projects />}
         </div>
     );
 };

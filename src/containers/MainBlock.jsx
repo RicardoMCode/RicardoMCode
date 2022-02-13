@@ -1,9 +1,9 @@
 import React, { useContext } from "react";
+import PortfolioContext from "../context/PortfolioContext";
 import TextSection from "../containers/TextSection";
 import WelcomeText from "../components/WelcomeText";
 import CardsSection from "../containers/CardsSection";
 import MyselfInformation from "../components/MyselfInformation";
-import PortfolioContext from "../context/PortfolioContext";
 //This is the main container, this allows you to modify the main information of the portfolio
 const MainBlock = () => {
   const {viewSelect} = useContext(PortfolioContext);

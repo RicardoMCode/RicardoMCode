@@ -59,7 +59,7 @@
   transition: 0.5s;
 }
 .menu-item-select {
-  /* border-bottom: solid .5rem; */
+  border-bottom: solid .1rem;
   /* border-radius: 5px; */
   color: var(--myself-color);
 }
