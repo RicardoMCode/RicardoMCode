@@ -26,7 +26,7 @@ const textoDisplay = () => {
       Este crecimiento profesional me ha permitido entender el valor y la
       importancia del entorno laboral para el crecimiento personal, en esta
       medida, es fundamental establecer metas personales y crecer tanto como nos
-      sea posible, entregando desde nuestro rol lo mejor para recibir lo mejor
+      sea posible, entregando desde nuestro rol lo mejor, para recibir lo mejor
       de la organización, de este modo es posible determinar el momento en donde
       nuestra necesidad de crecimiento nos empuja a salir de nuestra zona y
       buscar otros horizontes, no sin antes haber dejado la mejor huella tras de
@@ -39,9 +39,6 @@ const textoDisplay = () => {
       La <span className="keyword">pasión</span>, define el amor por lo que hago, me permite esforzarme por los
       buenos resultados y me mantiene motivado en los momentos de dificultad.
       <br />
-      La <span className="keyword">perseverancia</span>, me permite crecer de forma continua, superar los
-      obstáculos y cumplir con los objetivos.
-      <br />
       La <span className="keyword">curiosidad</span> alimenta mis ganas de aprender y mejora mi capacidad de
       adaptarme al cambio, también me permite mantener un nivel óptimo de
       creatividad y conocimiento.
@@ -49,7 +46,10 @@ const textoDisplay = () => {
       La <span className="keyword">calidad</span> me permite orientar mi trabajo al detalle, trabajar bajo
       presión y entregar resultados óptimos.
       <br />
-      El <span className="keyword">agradecimiento</span> me ayuda a entender el valor y la influencia que tiene en mi
+      La <span className="keyword">perseverancia</span>, me permite crecer de forma continua, superar los
+      obstáculos y cumplir con los objetivos.
+      <br />
+      La <span className="keyword">gratitud</span> me ayuda a entender el valor y la influencia que tiene en mi
       vida la familia, los amigos, las personas y las organizaciones con las que
       comparto en cualquier escenario.
       <br />

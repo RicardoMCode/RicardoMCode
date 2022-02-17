@@ -34,3 +34,31 @@
 .project-image {
   width: 100%;
 }
+
+.project-information {
+  padding: 1rem;
+  color: var(--text-welcome-color);
+}
+
+.project-name {
+  font-family: var(--format-font);
+}
+
+.project-description {
+  text-align: center;
+  padding: 1rem;
+  font-family: var(--text-font);
+  font-size: 2rem;
+  width: 90%;
+  margin: auto;
+}
+
+.project-button-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.project-button {
+  border: none;
+  color: var(--hiden-information-text-color);
+}

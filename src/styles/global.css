@@ -11,6 +11,9 @@
   --myself-color: #bababe;
   --text-myself-color: #31444e;
   --select-color:  #227cb8;
+  /* FONT */
+  --format-font: "Abril Fatface";
+  --text-font: 'Cormorant Garamond', serif;
 
 }
 html {
@@ -27,12 +30,11 @@ body {
   justify-content: space-around;
   padding-top: .5rem;
 }
-.socialmedia-icon {
+.format-icon {
   color: var(--hiden-information-text-color);
 }
 
-.socialmedia-icon:hover {
+.format-icon:hover {
   color: var(--select-color);
-  border-bottom: .5rem solid;
-  border-radius: 5px;
+  cursor: pointer;
 }

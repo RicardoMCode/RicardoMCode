@@ -9,7 +9,7 @@ const Projects = () => {
       img: proyectImage,
       name: "Name Proyect",
       link: "wwww.facebook.com",
-      desc: "Aqui se planteó un proyecto para la definición y gestión de X xo Y",
+      shortDesc: "Aqui se planteó un proyecto para la definición y gestión de X xo Y",
       techno: ["HTML5", "CSS3", "JS", "React", "Webpack"],
     },
     {
@@ -17,7 +17,7 @@ const Projects = () => {
       img: proyectImage,
       name: "Name Proyect",
       link: "wwww.facebook.com",
-      desc: "Aqui se planteó un proyecto para la definición y gestión de X xo Y",
+      shortDesc: "Aqui se planteó un proyecto para la definición y gestión de X xo Y",
       techno: ["HTML5", "CSS3", "JS", "React", "Webpack"],
     },
     {
@@ -25,7 +25,7 @@ const Projects = () => {
       img: proyectImage,
       name: "Name Proyect",
       link: "wwww.facebook.com",
-      desc: "Aqui se planteó un proyecto para la definición y gestión de X xo Y",
+      shortDesc: "Aqui se planteó un proyecto para la definición y gestión de X xo Y",
       techno: ["HTML5", "CSS3", "JS", "React", "Webpack"],
     },
     {
@@ -33,7 +33,7 @@ const Projects = () => {
       img: proyectImage,
       name: "Name Proyect",
       link: "wwww.facebook.com",
-      desc: "Aqui se planteó un proyecto para la definición y gestión de X xo Y",
+      shortDesc: "Aqui se planteó un proyecto para la definición y gestión de X xo Y",
       techno: ["HTML5", "CSS3", "JS", "React", "Webpack"],
     },
   ];
@@ -45,7 +45,7 @@ const Projects = () => {
           image={project.img}
           name={project.name}
           link={project.link}
-          description={project.desc}
+          shortDescription={project.shortDesc}
           technologies={project.techno}
           key={project.id}
         />

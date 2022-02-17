@@ -4,7 +4,7 @@ const MenuHeader = () => {
   const { setViewSelect } = useContext(PortfolioContext);
   return (
     <div className="menu-content">
-      <p
+      <div
         className="menu-item-select"
         onClick={() => {
           setViewSelect("projects");
@@ -14,9 +14,9 @@ const MenuHeader = () => {
       >
         {/* Projects */}
         Proyectos
-      </p>
+      </div>
       <span>|</span>
-      <p
+      <div
       className="menu-item-unselect"
         onClick={() => {
           setViewSelect("aboutMe");
@@ -26,7 +26,7 @@ const MenuHeader = () => {
       >
         {/* About Me */}
         Sobre Mí
-      </p>
+      </div>
     </div>
   );
 };

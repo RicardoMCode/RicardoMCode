@@ -44,7 +44,7 @@
   padding: 5rem 0 5rem 0;
   /* color: var(--myself-color); */
   color: #648194;
-  font-family: "Abril Fatface";
+  font-family: var(--format-font);
   font-size: 3rem;
 }
 
@@ -52,6 +52,7 @@
 .menu-item-unselect:hover {
   transition: 0.5s;
   font-size: 4rem;
+  cursor: pointer;
 }
 
 .menu-item-select:not(:hover),

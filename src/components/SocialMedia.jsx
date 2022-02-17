@@ -9,19 +9,19 @@ const SocialMedia = () => {
     return (
     <div className="socialmedia-icon-content">
     <a
-      className="socialmedia-icon"
+      className="format-icon"
       href={whatsappLink}
     >
       <FontAwesomeIcon icon={faWhatsappSquare} size="3x" />
     </a>
       <a
-        className="socialmedia-icon"
+        className="format-icon"
         href={linkedinLink}
       >
         <FontAwesomeIcon icon={faLinkedin} size="3x"/>
       </a>
       <a
-        className="socialmedia-icon"
+        className="format-icon"
         href={githubLink}
       >
         <FontAwesomeIcon icon={faGithubSquare} size="3x" />
