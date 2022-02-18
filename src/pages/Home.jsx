@@ -2,7 +2,7 @@ import React from "react";
 import MainBlock from "../containers/MainBlock";
 import Footer from "../containers/footer";
 import Header from "../containers/Header";
-import Technologies from "../containers/Technologies";
+import Technologies from "../components/Technologies";
 //Contexto del home - para cambiar la vista
 import PortfolioContext from "../context/PortfolioContext";
 import portfolioState from "../hooks/portfolioState";

@@ -39,7 +39,7 @@ const Projects = () => {
   ];
 
   return (
-    <div className="project-content">
+    <>
       {projectsList.map((project) => (
         <Project
           image={project.img}
@@ -50,7 +50,7 @@ const Projects = () => {
           key={project.id}
         />
       ))}
-    </div>
+    </>
   );
 };
 

@@ -28,7 +28,7 @@
 .main-photo-content:hover + .hidden-information-container{
   background-color: var(--hiden-information-color);
   height: 18rem;    
-  margin-left: 33rem;
+  margin-left: 30rem;
   transition: .5s;
   opacity: 1;
   visibility: visible;

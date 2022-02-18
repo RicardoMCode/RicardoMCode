@@ -34,11 +34,11 @@ const Certificates = () => {
     },
   ];
   return (
-    <div className="certificate-content">
+    <>
       {certificateList.map((ceritficate) => (
         <Certificate image={ceritficate.img} key={ceritficate.id} />
       ))}
-    </div>
+    </>
   );
 };
 
