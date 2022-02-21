@@ -1,6 +1,6 @@
 <hr/>
 <div align="center">
-  <h1>* Welcome *</h1>
+  <h1>* Welcome. This is my portfolio repository *</h1>
 </div>
 <hr/>
 

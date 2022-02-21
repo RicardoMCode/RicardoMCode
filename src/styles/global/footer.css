@@ -1,0 +1,22 @@
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: var(--header-color);
+    width: 100%;
+    padding: 2rem;
+    min-height: 10rem;
+    color: var(--myself-color);
+}
+
+.footer-container .format-icon {
+    color: var(--myself-color);
+}
+
+.foter-text {
+    text-align: center;
+    margin: 2rem;
+}
+
+.foter-text p, h4 {
+    margin: 1rem; 
+}

@@ -1,0 +1,8 @@
+.cards-section-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: var(--myself-color);
+    min-height: 30rem;
+    padding: 4rem; 
+}
