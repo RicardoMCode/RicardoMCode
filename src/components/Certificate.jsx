@@ -1,10 +1,11 @@
 import React from 'react';
 
-const Certificate = ({image}) => {
+const Certificate = ({name, link}) => {
     return (
         <div className='certificate-item'>
-            <img className='certificate-image' src={image}></img>
+            <img className='certificate-image' src={link}></img>
         </div>
+        
     );
 };
 
