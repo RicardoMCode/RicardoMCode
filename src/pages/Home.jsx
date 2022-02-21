@@ -1,6 +1,6 @@
 import React from "react";
 import MainBlock from "../containers/MainBlock";
-import Footer from "../containers/footer";
+import Footer from "../containers//Footer";
 import Header from "../containers/Header";
 import Technologies from "../components/Technologies";
 //Contexto del home - para cambiar la vista
