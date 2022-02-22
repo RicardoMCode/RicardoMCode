@@ -19,7 +19,7 @@
     },
     {
         "name": "Calculadora de figuras",
-        "id": "0",
+        "id": "2",
         "imgLink": "https://gdurl.com/iKgy",
         "techno": ["HTML5", "CSS3", "JavaScript"],
         "ShortDesc": "Aplicación web que recibe los datos fundamentales de diferentes figuras y calcula sus áreas y perimetros",
@@ -28,7 +28,7 @@
     },
     {
         "name": "SemUDI",
-        "id": "0",
+        "id": "3",
         "imgLink": "https://gdurl.com/WoEw",
         "techno": [".Net", "C#", "Oracle"],
         "ShortDesc": "Aplicación de escritorio creada con C# para el registro y control de semilleros de investigación",

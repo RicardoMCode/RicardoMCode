@@ -1,21 +1,24 @@
 import React from "react";
 import MainBlock from "../containers/MainBlock";
-import Footer from "../containers/footer";
+import Footer from "../containers//Footer";
 import Header from "../containers/Header";
 import Technologies from "../components/Technologies";
 //Contexto del home - para cambiar la vista
 import PortfolioContext from "../context/PortfolioContext";
 import portfolioState from "../hooks/portfolioState";
-//El CSS se organiza por separado sólo en desarrollo - para producción se debe minificar
-import "../styles/global/textSection.css";
-import "../styles/global/cardsSection.css";
-import "../styles/global/header.css";
-import "../styles/global/resources.css";
-import "../styles/global/contactInformation.css";
-import "../styles/global/footer.css";
-import "../styles/global/certificates.css";
-import "../styles/global/projects.css";
-import "../styles/global/technologies.css";
+//El CSS se organiza por separado sólo en desarrollo - para producción se minifica directamente en public/index.html con los mediaqueries
+// import "../styles/global/textSection.css";
+// import "../styles/global/cardsSection.css";
+// import "../styles/global/header.css";
+// import "../styles/global/resources.css";
+// import "../styles/global/contactInformation.css";
+// import "../styles/global/footer.css";
+// import "../styles/global/certificates.css";
+// import "../styles/global/projects.css";
+// import "../styles/global/technologies.css";
+// import "../styles/global/desktopQueries.css";
+//Import global css
+import '../styles/global.css';
 
 const Home = () => {
   const selectView = portfolioState();

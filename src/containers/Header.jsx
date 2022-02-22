@@ -1,6 +1,6 @@
 import React from "react";
 import Stamp from "../components/Stamp";
-import Photo from "../components/photo";
+import Photo from "../components/Photo";
 import ContactInformation from "./ContactInformation";
 import MenuHeader from "../components/MenuHeader";
 
