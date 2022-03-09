@@ -1,6 +1,5 @@
 import React from "react";
 import Project from "../components/Project";
-import proyectImage from "@images/certificado1.png";
 import projectsList from "../resources/projectsData.json";
 
 const Projects = () => {
@@ -14,6 +13,7 @@ const Projects = () => {
           shortDescription={project.ShortDesc}
           technologies={project.techno}
           key={project.id}
+          demo={project.demo}
         />
       ))}
     </>
