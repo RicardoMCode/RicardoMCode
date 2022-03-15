@@ -6,7 +6,8 @@
         "techno": ["HTML5", "Bootstrap", "JavaScript", "ReactJs", "NodeJs","MySql"],
         "ShortDesc": "Aplicación web para la recepción y gestión de proyectos de investigación o desarrollo tecnológico",
         "LongDesc": "",
-        "link": ""
+        "link": "https://gdurl.com/Fa8P",
+        "demo": "none"
     },
     {
         "name": "Portafolio",
@@ -15,7 +16,8 @@
         "techno": ["HTML5", "CSS3", "JavaScript", "ReactJs"],
         "ShortDesc": "Corresponde al desarrollo de mi portafolio de proyectos personales, está en constante actualización",
         "LongDesc": "",
-        "link": ""
+        "link": "https://gdurl.com/Fa8P",
+        "demo": "none"
     },
     {
         "name": "Calculadora de figuras",
@@ -24,7 +26,8 @@
         "techno": ["HTML5", "CSS3", "JavaScript"],
         "ShortDesc": "Aplicación web que recibe los datos fundamentales de diferentes figuras y calcula sus áreas y perimetros",
         "LongDesc": "",
-        "link": ""
+        "link": "https://gdurl.com/Fa8P",
+        "demo": "none"
     },
     {
         "name": "SemUDI",
@@ -33,6 +36,7 @@
         "techno": [".Net", "C#", "Oracle"],
         "ShortDesc": "Aplicación de escritorio creada con C# para el registro y control de semilleros de investigación",
         "LongDesc": "",
-        "link": ""
+        "link": "https://gdurl.com/Fa8P",
+        "demo": "none"
     }
 ]
