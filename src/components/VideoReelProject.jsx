@@ -2,7 +2,7 @@ import React from "react";
 
 const VideoReelProject = ({ videolink }) => {
   return (
-    <div className="vide-container">
+    <div className="video-container">
       <iframe
         className="video-demoreel"
         src={videolink}
