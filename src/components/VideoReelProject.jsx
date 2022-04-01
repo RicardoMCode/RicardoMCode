@@ -1,11 +1,14 @@
 import React from "react";
+import { useContext } from "react";
+import projectContext from "../context/ProjectContext";
 
-const VideoReelProject = ({ videolink }) => {
+const VideoReelProject = () => {
+  const {linkProject} = useContext(projectContext);
   return (
     <div className="video-container">
       <iframe
         className="video-demoreel"
-        src={videolink}
+        src={linkProject}
         title="Video-reel"
         frameBorder="0"
         allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
