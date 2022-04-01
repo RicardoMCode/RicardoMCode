@@ -4,8 +4,8 @@
         "id": "0",
         "imgLink": "https://gdurl.com/KZSq",
         "techno": ["HTML5", "Bootstrap", "JavaScript", "ReactJs", "NodeJs","MySql"],
-        "ShortDesc": "Aplicación web para la recepción y gestión de proyectos de investigación o desarrollo tecnológico",
-        "LongDesc": "",
+        "shortDesc": "Aplicación web para la recepción y gestión de proyectos de investigación o desarrollo tecnológico",
+        "longDesc": "",
         "link": "https://gdurl.com/Fa8P",
         "demo": "none"
     },
@@ -14,9 +14,9 @@
         "id": "1",
         "imgLink": "https://gdurl.com/XRkF",
         "techno": ["HTML5", "CSS3", "JavaScript", "ReactJs"],
-        "ShortDesc": "Corresponde al desarrollo de mi portafolio de proyectos personales, está en constante actualización",
-        "LongDesc": "",
-        "link": "https://gdurl.com/Fa8P",
+        "shortDesc": "Corresponde al desarrollo de mi portafolio de proyectos personales, está en constante actualización",
+        "longDesc": "",
+        "link": "https://gdurl.com/XRkF",
         "demo": "none"
     },
     {
@@ -24,9 +24,9 @@
         "id": "2",
         "imgLink": "https://gdurl.com/iKgy",
         "techno": ["HTML5", "CSS3", "JavaScript"],
-        "ShortDesc": "Aplicación web que recibe los datos fundamentales de diferentes figuras y calcula sus áreas y perimetros",
-        "LongDesc": "",
-        "link": "https://gdurl.com/Fa8P",
+        "shortDesc": "Aplicación web que recibe los datos fundamentales de diferentes figuras y calcula sus áreas y perimetros",
+        "longDesc": "",
+        "link": "https://gdurl.com/iKgy",
         "demo": "none"
     },
     {
@@ -34,9 +34,9 @@
         "id": "3",
         "imgLink": "https://gdurl.com/WoEw",
         "techno": [".Net", "C#", "Oracle"],
-        "ShortDesc": "Aplicación de escritorio creada con C# para el registro y control de semilleros de investigación",
-        "LongDesc": "",
-        "link": "https://gdurl.com/Fa8P",
+        "shortDesc": "Aplicación de escritorio para el registro y control de semilleros de investigación creada usando C#",
+        "longDesc": "",
+        "link": "https://gdurl.com/dnM0",
         "demo": "none"
     }
 ]
